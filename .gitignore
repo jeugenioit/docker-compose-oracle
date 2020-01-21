@@ -1,0 +1,6 @@
+#macox-files
+._*
+._.*
+
+# Others
+.DS_Store
